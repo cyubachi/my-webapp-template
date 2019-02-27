@@ -2,6 +2,8 @@
 
 A Leiningen template for FIXME.
 
+hogehoge
+
 ## Usage
 
 FIXME
